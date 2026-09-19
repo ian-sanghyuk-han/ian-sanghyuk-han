@@ -8,7 +8,7 @@ How the world's markets are connected — theory, instruments, and a live view.
 
 | | |
 |---|---|
-| **World Trading Live (WTL)** | [repo](https://github.com/ian-sanghyuk-han/batavia-wtl) · [live](https://ian-sanghyuk-han.github.io/batavia-wtl/) |
+| **World Trading Live (WTL)** | [repo](https://github.com/ian-sanghyuk-han/batavia-project-wtl) · [live](https://ian-sanghyuk-han.github.io/batavia-project-wtl/) |
 
 Other Batavia Project work (Economics Network, Rolling Caliper, data, website) is kept in private repositories for now.
 
